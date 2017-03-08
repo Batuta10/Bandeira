@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bandeira</string>
+    <string name="strTelaInicial">Conheça as bandeiras dos paises!</string>
+    <string name="strEntrar">Entrar</string>
+</resources>
