@@ -2,4 +2,6 @@
     <string name="app_name">Bandeira</string>
     <string name="strTelaInicial">Conheça as bandeiras dos paises!</string>
     <string name="strEntrar">Entrar</string>
+    <string name="strTitulo">O mundo em um App</string>
+    <string name="strTitulo2">Selecione a Bandeira</string>
 </resources>
